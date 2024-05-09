@@ -1,1 +1,1 @@
-API_KEY = '96e93b01ce15e72dc0155d30a16600e1'
+API_KEY = '1234'#key 입력란
